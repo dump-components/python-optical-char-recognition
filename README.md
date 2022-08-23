@@ -1,1 +1,0 @@
-# python-optical-char-recognition
